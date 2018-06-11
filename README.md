@@ -1,3 +1,3 @@
 # Resume-classification
 My first `Machine Learning` project\
-Using different machine learning algorithm to classifier the resume based on the resume content
+Try to using different machine learning algorithm including LinearSVC, SVC, Navie Bayes, LogisticRegression to classifier the resume based on the resume content.
